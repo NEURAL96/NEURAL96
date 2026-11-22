@@ -1,8 +1,8 @@
 <!--
 ╔══════════════════════════════════════════════════════════════╗
-║                  SONIKA BHARDWAJ                             ║
-║             AI ENGINEER | INTELLIGENCE BUILDER               ║
-║          Designing Intelligence. Engineering Impact.         ║
+║                    SONIKA BHARDWAJ                           ║
+║              AI ENGINEER | INTELLIGENCE BUILDER               ║
+║           DESIGNING INTELLIGENCE. ENGINEERING IMPACT.         ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
 
@@ -16,19 +16,25 @@
 
 <br/><br/>
 
-<a href="https://github.com/SONIKA-GITHUB-USERNAME">
+<a href="https://github.com/NEURAL96">
 <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/sonika-bhardwaj">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-Let's%20Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="mailto:sonikabhardwaj.aiml@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SONIKA-GITHUB-USERNAME&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=NEURAL96&label=PROFILE%20VISITORS&color=8B5CF6&style=for-the-badge" />
+
+<br/><br/>
+
+**THINK BEYOND CODE. BUILD BEYOND LIMITS.**
 
 </div>
 
@@ -53,6 +59,7 @@ class SonikaBhardwaj:
 
     def __init__(self):
         self.role = "AI Engineer"
+
         self.focus = [
             "Artificial Intelligence",
             "Machine Learning",
@@ -62,7 +69,7 @@ class SonikaBhardwaj:
         ]
 
         self.mindset = "Think deeply. Build intelligently."
-        self.current_mission = "Turning ideas into intelligent systems"
+        self.mission = "Turning ideas into intelligent systems"
 
     def philosophy(self):
         return "Innovation begins where curiosity meets engineering."
@@ -94,37 +101,49 @@ class SonikaBhardwaj:
 <h3 align="center">01 — Programming Languages</h3>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql,bash&theme=dark" />
+
 </div>
 
 <h3 align="center">02 — AI / ML Ecosystem</h3>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 </div>
 
 <h3 align="center">03 — Backend & Development</h3>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,html,css&theme=dark" />
+
 </div>
 
 <h3 align="center">04 — Databases & Infrastructure</h3>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,linux,vscode&theme=dark" />
+
 </div>
 
 <h3 align="center">05 — Cloud & Deployment</h3>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
+
 </div>
 
 ---
@@ -133,64 +152,77 @@ class SonikaBhardwaj:
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/PROJECT%20SHOWCASE-Explore%20My%20Engineering%20Work-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/><br/>
+
 <table>
 <tr>
 <td width="50%" align="center">
 
-### PROJECT_01
+### AI & MACHINE LEARNING
 
-**[PROJECT NAME]**
+Explore projects involving machine learning, predictive modeling, data analysis, and intelligent applications.
 
-A short description of the AI/ML problem this project solves, its architecture, and the technology behind it.
+<br/>
 
-`Python` `Machine Learning` `AI`
-
-[EXPLORE PROJECT](PROJECT_1_URL)
+<a href="https://github.com/NEURAL96?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ML%20PROJECTS-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%" align="center">
 
-### PROJECT_02
+### GENERATIVE AI
 
-**[PROJECT NAME]**
+Discover experiments and applications involving LLMs, prompt engineering, language models, and generative AI.
 
-A short description explaining the application's purpose, intelligent features, and real-world use case.
+<br/>
 
-`Python` `Deep Learning` `API`
-
-[EXPLORE PROJECT](PROJECT_2_URL)
+<a href="https://github.com/NEURAL96?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-GEN%20AI%20PROJECTS-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center">
 
-### PROJECT_03
+### DEEP LEARNING
 
-**[PROJECT NAME]**
+Explore neural network experiments, model architectures, computer vision, and intelligent systems.
 
-Explain the problem, implementation approach, and what makes this project technically interesting.
+<br/>
 
-`NLP` `Generative AI` `LLMs`
-
-[EXPLORE PROJECT](PROJECT_3_URL)
+<a href="https://github.com/NEURAL96?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-DEEP%20LEARNING-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%" align="center">
 
-### PROJECT_04
+### AI ENGINEERING
 
-**[PROJECT NAME]**
+Explore Python applications, APIs, automation workflows, and practical AI implementations.
 
-Showcase an experiment, automation system, or intelligent application with measurable results.
+<br/>
 
-`AI Automation` `Python` `FastAPI`
-
-[EXPLORE PROJECT](PROJECT_4_URL)
+<a href="https://github.com/NEURAL96?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ENGINEERING-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<a href="https://github.com/NEURAL96?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -216,8 +248,6 @@ Showcase an experiment, automation system, or intelligent application with measu
 
 I value responsible open-source development and understanding the licenses behind the tools, models, and datasets used in AI projects.
 
-Some important licenses in the open-source ecosystem:
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/MIT-License-8B5CF6?style=for-the-badge"/>
@@ -229,7 +259,16 @@ Some important licenses in the open-source ecosystem:
 
 </div>
 
-**Important:** Every project should specify its own actual license. Model weights, datasets, source code, and dependencies can have different licensing terms. Always check the original license before redistribution or commercial use.
+**License awareness matters:**
+
+- MIT — Permissive open-source software license.
+- Apache 2.0 — Permissive license with express patent grants.
+- BSD — Permissive family of software licenses.
+- GPL 3.0 — Copyleft software license.
+- CC BY 4.0 — Attribution license for creative works.
+- OpenRAIL-M — Model license with use restrictions.
+
+**Important:** Every project should specify its actual license. Model weights, datasets, source code, and dependencies can have different licensing terms. Always check the original license before redistribution or commercial use.
 
 ---
 
@@ -237,17 +276,17 @@ Some important licenses in the open-source ecosystem:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SONIKA-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NEURAL96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONIKA-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A78BFA&text_color=FFFFFF" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=SONIKA-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEURAL96&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A78BFA&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SONIKA-GITHUB-USERNAME&bg_color=050816&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img width="90%" src="https://streak-stats.demolab.com?user=NEURAL96&theme=tokyonight&hide_border=true&background=050816&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NEURAL96&bg_color=050816&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -270,19 +309,42 @@ MISSION      : BUILD TECHNOLOGY THAT MATTERS
 
 ---
 
-<h2 align="center">◈ BEYOND THE CODE</h2>
+<h2 align="center">◈ LET'S CONNECT</h2>
 
 <div align="center">
 
-I believe the future belongs to people who can understand technology deeply, question existing solutions, and create better ones.
+### Have an idea? Let's build something intelligent.
 
-**Curiosity is the beginning. Engineering is the execution. Innovation is the outcome.**
+<a href="https://www.linkedin.com/in/sonika-bhardwaj">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Sonika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sonikabhardwaj.aiml@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-Contact%20Sonika-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NEURAL96">
+<img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Email:** sonikabhardwaj.aiml@gmail.com
+
+**LinkedIn:** [linkedin.com/in/sonika-bhardwaj](https://www.linkedin.com/in/sonika-bhardwaj)
+
+<br/>
+
+---
+
+### "Curiosity is the beginning. Engineering is the execution. Innovation is the outcome."
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:111827,100:050816&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 ### SONIKA BHARDWAJ
+
 **AI ENGINEER | BUILDING WHAT'S NEXT**
 
 </div>
