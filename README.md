@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sonika-bhardwaj">
+<a href="https://www.linkedin.com/in/sonika-bhardwaj-726800300/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
