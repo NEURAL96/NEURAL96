@@ -315,7 +315,7 @@ MISSION      : BUILD TECHNOLOGY THAT MATTERS
 
 ### Have an idea? Let's build something intelligent.
 
-<a href="https://www.linkedin.com/in/sonika-bhardwaj">
+<a href="https://www.linkedin.com/in/sonika-bhardwaj-726800300/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Sonika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -331,7 +331,7 @@ MISSION      : BUILD TECHNOLOGY THAT MATTERS
 
 **Email:** sonikabhardwaj.aiml@gmail.com
 
-**LinkedIn:** [linkedin.com/in/sonika-bhardwaj](https://www.linkedin.com/in/sonika-bhardwaj)
+**LinkedIn:** [linkedin.com/in/sonika-bhardwaj](https://www.linkedin.com/in/sonika-bhardwaj-726800300/)
 
 <br/>
 
