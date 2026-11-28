@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sonika-bhardwaj-726800300/">
+<a href="https://www.linkedin.com/in/sonika-neural/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -315,7 +315,7 @@ MISSION      : BUILD TECHNOLOGY THAT MATTERS
 
 ### Have an idea? Let's build something intelligent.
 
-<a href="https://www.linkedin.com/in/sonika-bhardwaj-726800300/">
+<a href="https://www.linkedin.com/in/sonika-neural/">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Sonika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -331,7 +331,7 @@ MISSION      : BUILD TECHNOLOGY THAT MATTERS
 
 **Email:** sonikabhardwaj.aiml@gmail.com
 
-**LinkedIn:** [linkedin.com/in/sonika-bhardwaj](https://www.linkedin.com/in/sonika-bhardwaj-726800300/)
+**LinkedIn:** [linkedin.com/in/sonika-bhardwaj](https://www.linkedin.com/in/sonika-neural/)
 
 <br/>
 
